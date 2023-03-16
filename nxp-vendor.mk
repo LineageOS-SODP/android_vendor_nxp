@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PRODUCT_PACKAGES += \
-	libpn547_fw \
-	libpn548_fw \
-	libpn551_fw \
-	libpn553_fw
+# PRODUCT_PACKAGES += \
+# 	libpn547_fw \
+# 	libpn548_fw \
+# 	libpn551_fw \
+# 	libpn553_fw
